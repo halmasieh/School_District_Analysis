@@ -59,10 +59,11 @@ As seen in the following DataFrame:
   - Scores by school spending
   After replacing all the math and reading scores from the ninth grade at Thomas High School with NaN has not changed.
   
-  ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/Math-Reading-NaN.PNG)
+  ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/Spending_range_THS.PNG)
   
   
   - Scores by school size
+  
   - Scores by school type
    
 
