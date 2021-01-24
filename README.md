@@ -63,12 +63,11 @@ As seen in the following DataFrame:
    
 
 ## Summary
-In fact, the presented challenge is an example of hundreds of samples that we encounter in the real world. Problem analysis in the form of a flowchart
-and pseudo-code gives us an extensive information.
-Knowing what we want to do and what our goal is supposed to be, is the most important step in starting this analysis, and then advancing the problem in the direction of goal
-using important tools such as Python is the next step in achieving the result of the data analysis.
-
-In this challenge, the election results of three counties were examined, the percentage of the vote and the number of votes are shown as
+After replacing the values of reading and math scores with "NaN"s, the values of the "School Type", "Total Students", "Total School Budget" and "Per Student Budget"
+have not changed, and have been influential in associated with math and reading scores
+- " % Passing Math " has moved to 93.19.
+- " % Passing reading " has moved to 97.02
+- " % Overall Passing " has moved to 90.63
 
 ![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/County_Votes.PNG)
 
