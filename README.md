@@ -17,7 +17,7 @@ with at most confitiality.
 ## Results
 1. How is the district summary affected? 
 As seen in the following DataFrame: 
-![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/district_summary.PNG)
+![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/school_summary.PNG)
    - The total budget for 15 covered schools is specified with a subtlety of 39170 students.
    - The average grades of the math and reading courses are specified.
    - The percentage of passing math and reading are reported.
