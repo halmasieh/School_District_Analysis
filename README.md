@@ -93,5 +93,5 @@ have not changed, and have been influential in associated with math and reading 
 - " % Overall Passing " has moved to 90.630324
 
 
-![here](https://github.com/halmasieh/School_District_Analysis/blob/main/File_New_Old.PNG)
+![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/Four_Major_Changes.PNG)
 
