@@ -6,7 +6,7 @@ The purpose of this analysis is to aggregate data and analyze them for purposefu
 every students' math and reading scores as well as various information on school funding sources can help us with this data analysis at both
 the school and district level. 
 Undoubtedly, the work done in this analysis will be effective in improving the performance of the schools and will assist the school board 
-in making decissions regarding the school budget and priorities. Therefore, the data must be in such a way to provide the most protect for students 
+in making decissions regarding the school budget and priorities. Therefore, the data must be treated in such a way to provide the most protect for students 
 with at most confitiality.
 
 ## Resources
