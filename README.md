@@ -55,6 +55,7 @@ As seen in the following DataFrame:
  
 4. How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade:
+  
   Information on math score and reading score is highlighted below.
   
    ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/Math-Reading-NaN.PNG)
