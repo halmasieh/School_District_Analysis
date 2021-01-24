@@ -64,7 +64,12 @@ As seen in the following DataFrame:
   
   - Scores by school size
   
+  ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/School_Size.PNG)
+  
+  
   - Scores by school type
+  
+  ![here]()
    
 
 ## Summary
