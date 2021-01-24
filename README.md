@@ -49,6 +49,7 @@ As seen in the following DataFrame:
    - lack of the ninth-graders' math and reading scores affects the school average as well as the percentage of passing.
    
  
+ 
 4. How does replacing the ninth-grade scores affect the following:
   - Math and reading scores by grade
   Information on math score and reading score is highlighted below.
@@ -61,24 +62,7 @@ As seen in the following DataFrame:
   - Scores by school type
    
 
-
-![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/Winner.PNG) 
-
-5. The comprehensive analysis of this election can be extended to larger projects such as gatherings at national and international levels. 
-By enlarging the loops of iteration, creating nested loops and using conditional statements on influential factors, wider analyzes will be possible.
-
-## Challenge Overview
-The purpose of this challenge is to reinforce the Python programming insight by using VBA background. In fact, we performed a simulation for obtaining the winner county of what
-has been done before. We used Python as well as Visual studio code softwares for excecuting our script. 
-Python, while simple, is very practical and intuitive, thus it can be used as an effective computational tool for macro-analysis.
-
-Preliminary information is available in this election that is related to the list of candidates and their total votes along with 
-the winner of the election based on the highest percentage of the votes. In order to complete the rest of the information related to 
-this project, determining the share of participating of each county and selecting the winning county has a significient role in clarifying for the audiences. 
-Therefore, the purpose of this analysis audit is to calculate the voter turnout and the percentage of votes of each county in order to
-determining the county with the highest turnout.
-
-## Challenge Summary
+## Summary
 In fact, the presented challenge is an example of hundreds of samples that we encounter in the real world. Problem analysis in the form of a flowchart
 and pseudo-code gives us an extensive information.
 Knowing what we want to do and what our goal is supposed to be, is the most important step in starting this analysis, and then advancing the problem in the direction of goal
