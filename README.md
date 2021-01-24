@@ -86,9 +86,11 @@ As seen in the following DataFrame:
 ## Summary
 After replacing the values of reading and math scores with "NaN"s, the values of the "School Type", "Total Students", "Total School Budget" and "Per Student Budget"
 have not changed, and have been influential in associated with math and reading scores
-- " % Passing Math " has moved to 93.19.
-- " % Passing reading " has moved to 97.02
-- " % Overall Passing " has moved to 90.63
+- " Average Math Score" has moved to 83.350937
+- " Average Reading Score " has moved to 83.896082 
+- " % Passing Math " has moved to 93.185690
+- " % Passing reading " has moved to 97.018739
+- " % Overall Passing " has moved to 90.630324
 
 
 ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/File_New_Old.PNG)
