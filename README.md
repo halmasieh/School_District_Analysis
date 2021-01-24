@@ -45,9 +45,9 @@ As seen in the following DataFrame:
 
 ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/THS-9th.PNG)
 
-   - Candidate #1 recieved 23.0% of the vote and 85,213 number of votes.
-   - Candidate #2 recieved 73.8% of the vote and 272,892 number of votes.
-   - Candidate #3 recieved 3.1% of the vote and 11,606 number of votes.
+   - The values related to the math and reading scores of ninth-graders have unknown values.
+   - lack of the ninth-graders' math and reading scores affects the school average as well as the percentage of passing.
+   - 
    
 ![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/Candidate_Votes.PNG) 
    
