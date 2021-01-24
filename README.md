@@ -1,5 +1,5 @@
 # School_District_Analysis
-Python-Anaconda
+
 
 ## Project Overview
 The purpose of this analysis is to aggregate data and analyze them for purposeful use in school district. In fact, having access to 
@@ -14,14 +14,13 @@ with at most confitiality.
 - Software: [Python 3.7.6](https://www.python.org/downloads/) and [Anaconda](https://www.anaconda.com/products/individual)
 - Module: pandas, numpy
 
-## Summary
-The Analysis of the election shows that:
-1. The total votes casted for the election was 369,711.
-
-2. The number of candidates running in this election is three with the following names:
-   - Candidate #1: Charles Casper Stockham
-   - Candidate #2: Diana DeGette
-   - Candidate #3: Raymon Anthony Doane
+## Results
+1. How is the district summary affected? 
+As seen in the following DataFrame: 
+![here]()
+   - The total budget for 15 covered schools is specified with a subtlety of 39170 students.
+   - The average grades of the math and reading courses are specified.
+   - The percentage of passing math and reading are reported. 
 
 3. The candidate results were:
    - Candidate #1 recieved 23.0% of the vote and 85,213 number of votes.
