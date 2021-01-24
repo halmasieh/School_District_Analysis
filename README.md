@@ -69,5 +69,5 @@ have not changed, and have been influential in associated with math and reading 
 - " % Passing reading " has moved to 97.02
 - " % Overall Passing " has moved to 90.63
 
-![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/New_Old_Math_Reading_Scores.PNG)
+![here](https://github.com/halmasieh/School_District_Analysis/blob/main/File_New_Old.PNG)
 
