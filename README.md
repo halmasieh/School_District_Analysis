@@ -26,6 +26,7 @@ As seen in the following DataFrame:
    - The percentage of passing math and reading are reported.
 
 
+
 2. How is the school summary affected?
 
 As seen in the following DataFrame: 
