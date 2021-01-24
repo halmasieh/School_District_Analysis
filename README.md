@@ -51,25 +51,28 @@ As seen in the following DataFrame:
  
  
 4. How does replacing the ninth-grade scores affect the following:
-  - Math and reading scores by grade
+  - Math and reading scores by grade:
   Information on math score and reading score is highlighted below.
   
    ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/Math-Reading-NaN.PNG)
    
-  - Scores by school spending
+  - Scores by school spending:
+  
   After replacing all the math and reading scores from the ninth grade at Thomas High School with NaN, "Spending Ranges (Per Student)" has not changed.
   
   ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/Spending_range_THS.PNG)
   
   
-  - Scores by school size
+  - Scores by school size:
+  
   After replacing all the math and reading scores from the ninth grade at Thomas High School with NaN, "School Size" has not changed.
   
   ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/School_Size.PNG)
   
   
-  - Scores by school type
-   After replacing all the math and reading scores from the ninth grade at Thomas High School with NaN, "School Type" has not changed.
+  - Scores by school type:
+  
+  After replacing all the math and reading scores from the ninth grade at Thomas High School with NaN, "School Type" has not changed.
    
   ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/School_type.PNG)
    
