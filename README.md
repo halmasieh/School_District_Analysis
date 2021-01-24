@@ -11,7 +11,7 @@ with at most confitiality.
 
 ## Resources
 - Data Sources: schools_complete.csv, students_complete.csv
-- Software: [Python 3.7.6](https://www.python.org/downloads/) and [Anaconda](https://www.anaconda.com/products/individual)-Jupyter Notebook
+- Software: [Python 3.7.6](https://www.python.org/downloads/) and [Anaconda(Jupyter Notebook)](https://www.anaconda.com/products/individual)
 - Module: pandas, numpy
 
 ## Results
