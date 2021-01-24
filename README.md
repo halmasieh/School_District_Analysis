@@ -33,9 +33,9 @@ As seen in the following DataFrame:
 
 ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/school_summary.PNG)
 
-   - The total budget for 15 covered schools is specified with a subtlety of 39170 students.
-   - The average grades of the math and reading courses are specified.
-   - The percentage of passing math and reading are reported.
+   - Information on the total number of students as well as school type is available by school name.
+   - The budget allocated to each school and each student is known.
+   - The average math score and reading score ia available long with the passing percentage of these courses.  
    
    
    
