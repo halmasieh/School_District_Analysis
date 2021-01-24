@@ -10,8 +10,8 @@ in making decissions regarding the school budget and priorities. Therefore, the 
 with at most confitiality.
 
 ## Resources
-- Data Sources: election_results.csv
-- Software: [Python 3.7.6](https://www.python.org/downloads/) and [Visual Studio Code](https://code.visualstudio.com/)
+- Data Sources: schools_complete.csv, students_complete.csv
+- Software: [Python 3.7.6](https://www.python.org/downloads/) and [Anacond](https://www.anaconda.com/products/individual)
 
 ## Summary
 The Analysis of the election shows that:
