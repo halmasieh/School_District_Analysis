@@ -37,10 +37,11 @@ As seen in the following DataFrame:
    - The budget allocated to each school and each student is known.
    - The average math score and reading score ia available long with the passing percentage of these courses.  
    
-   
-   
+ 3. How does replacing the ninth-graders' math and reading scores affect High School's performance relative to the other schools?
 
-3. The candidate results were:
+As seen in the following DataFrame: 
+
+![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/district_summary.PNG)
    - Candidate #1 recieved 23.0% of the vote and 85,213 number of votes.
    - Candidate #2 recieved 73.8% of the vote and 272,892 number of votes.
    - Candidate #3 recieved 3.1% of the vote and 11,606 number of votes.
