@@ -47,6 +47,10 @@ As seen in the following DataFrame:
 
    - The values related to the math and reading scores of ninth-graders have unknown values.
    - lack of the ninth-graders' math and reading scores affects the school average as well as the percentage of passing.
+   - Information on math score and reading score is highlighted below.
+  
+  ![here](https://github.com/halmasieh/School_District_Analysis/blob/main/Resources/Math-Reading-NaN.PNG)
+  
    - 
    
 ![here](https://github.com/halmasieh/Election_Analysis/blob/main/Resources/Candidate_Votes.PNG) 
